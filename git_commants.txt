@@ -1,18 +1,20 @@
 
 git init
 
-git status
+git status- list untracked files
 
 git branch
 
 git remote add repoPath https://github.com/Vydehy-Vy/PyProgramRepository.git
 
-git add -A 
+git add -A - add the untracked filed to staging area
 
-git commit -m "comment"
+git commit -m "comment" - staged file to local repository
 
 git push pathname branch name
 
 >git push repoPath master
 
 git remote -v //get path name
+
+git remote -v - list all added remote repository
