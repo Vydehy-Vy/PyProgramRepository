@@ -18,3 +18,7 @@ git push pathname branch name
 git remote -v //get path name
 
 git remote -v - list all added remote repository
+
+git stash
+
+git log
