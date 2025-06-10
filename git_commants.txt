@@ -5,3 +5,14 @@ git status
 
 git branch
 
+git remote add repoPath https://github.com/Vydehy-Vy/PyProgramRepository.git
+
+git add -A 
+
+git commit -m "comment"
+
+git push pathname branch name
+
+>git push repoPath master
+
+git remote -v //get path name
